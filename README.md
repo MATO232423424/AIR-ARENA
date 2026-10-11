@@ -9,12 +9,7 @@ Custom floating arena for FiveM featuring unique ramp structures and a clean des
 - Custom map assets
 - Designed for FiveM
 - Suitable for PvP and custom events
-- Floating arena located high above the map
-
-## 📦 Requirements
-
-- FiveM server
-- Grand Theft Auto V
+- Floating arena located high above the map for best FPS
 
 ## ⚙️ Installation
 
